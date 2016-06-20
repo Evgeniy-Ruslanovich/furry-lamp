@@ -1,0 +1,340 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"te",
+				"text-decoration-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"mra",
+				"margin"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"text-a",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "тест/index.html",
+			"settings":
+			{
+				"buffer_size": 648,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "тест/style.css",
+			"settings":
+			{
+				"buffer_size": 878,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 62.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/OpenServer/domains/portfolios",
+		"/C/OpenServer/domains/portfolios/тест"
+	],
+	"file_history":
+	[
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Евгений Зайнутдинов 3/style.css",
+		"/C/OpenServer/domains/portfolios/style.css",
+		"/C/OpenServer/domains/portfolios/index.html",
+		"/C/OpenServer/domains/portfolios/portfolio.sublime-project",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Евгений Зайнутдинов 3/index.html",
+		"/C/OpenServer/domains/php1/index.php",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Мое ДЗ/Евгений Зайнутдинов 5/goods/topor.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Мое ДЗ/Евгений Зайнутдинов 5/goods/ancor.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Мое ДЗ/Евгений Зайнутдинов 5/goods/nokia.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Мое ДЗ/Евгений Зайнутдинов 5/goods/girja.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Мое ДЗ/Евгений Зайнутдинов 5/goods/lenin.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Мое ДЗ/Евгений Зайнутдинов 5/style.css",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Мое ДЗ/Евгений Зайнутдинов 5/goods/catalog.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Мое ДЗ/Евгений Зайнутдинов 5/basket.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Мое ДЗ/Евгений Зайнутдинов 5/index.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Мое ДЗ/Евгений Зайнутдинов 5/feedback.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Мое ДЗ/Евгений Зайнутдинов 5/goods/topor_experimental.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Мое ДЗ/Евгений Зайнутдинов 5/delivery.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Мое ДЗ/Евгений Зайнутдинов 5/contacts.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Мое ДЗ/Евгений Зайнутдинов 5/experimental.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Мое ДЗ/Евгений Зайнутдинов 5/style2.css",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Зайнутдинов Евгений/lenin.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Зайнутдинов Евгений/ancor.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Зайнутдинов Евгений/girja.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Зайнутдинов Евгений/index.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Зайнутдинов Евгений/topor.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Зайнутдинов Евгений/nokia.html",
+		"/C/Users/Admin/Desktop/Женя/Курс по ХТМЛ/Зайнутдинов Евгений/Урок 1.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"width",
+			"buy",
+			"clear",
+			"некрасиво"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "тест/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								478,
+								478
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "тест/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 878,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								380
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
