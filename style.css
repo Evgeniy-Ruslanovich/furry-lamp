@@ -27,6 +27,7 @@ html, body {
 		/*background-color: #aaa;*/
 		background-color: #050505;
 		float: left;
+		padding-top: 40px;
 	}
 	@media screen and (max-width: 400px) {
 		.header {
@@ -46,7 +47,9 @@ html, body {
 			/*background-color: #aaa;*/
 			background-color: #050505;
 			float: none;
+
 		}
+		.
 	}
 	.header h2 {
 		font-family: 'Roboto Condensed', sans-serif;
@@ -66,14 +69,18 @@ html, body {
 	.blockhref {
 		display:inline-block;
 		text-decoration: none;
-		color:inherit; 
+		color:inherit;
+
 	}
 	.myname {
 		/*height: 150px;*/
-		/*width: 400px;*/
+		/*width: 220px;*/
 		/*max-width: 80%;*/
-		margin-top: 50px;
-		margin-left: 50px;
+		/*margin-top: 50px;*/
+		/*margin-left: 50px;*/
+		/*margin-left: auto;
+		margin-right: auto;*/
+		/*margin:50px auto;*/
 		/*float: left;*/
 		/*outline: 1px solid black;*/
 	}
@@ -82,7 +89,10 @@ html, body {
 		width: 200px;*/
 		max-width: 80%;
 		margin-top: 50px;
-		margin-right: 70px;
+		/*margin-right: 70px;*/
+		margin-left: auto;
+		margin-right: auto;
+
 		/*float: right;*/
 		/*outline: 1px solid black;*/
 	}
