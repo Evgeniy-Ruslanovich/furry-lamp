@@ -23,7 +23,6 @@ html, body {
 /* ХЕДЕР */
 	.header {
 		width: 300px;
-		max-width: 20%;
 		height: 900px;
 		/*background-color: #aaa;*/
 		background-color: #050505;
@@ -83,8 +82,9 @@ html, body {
 /*ЦЕНТРАЛЬНАЯ ЧАСТЬ*/
 }
 .content {
-	width: 1100px;
-	max-width: 79%;
+	max-width: 1100px;
+	/*height: 900px;*/
+	min-width: 300px;
 	/*background-color: #f80;*/
 	overflow: hidden;
 }
