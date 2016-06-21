@@ -25,7 +25,8 @@ html, body {
 		width: 300px;
 		height: 900px;
 		/*background-color: #aaa;*/
-		background-color: #050505;
+		/*background-color: #050505;*/
+		background-image: url(imgs/bgblack2.png);
 		float: left;
 		padding-top: 40px;
 	}
@@ -35,7 +36,7 @@ html, body {
 			min-width: 300px;
 			height: 550px;
 			/*background-color: #aaa;*/
-			background-color: #050505;
+			/*background-color: #050505;*/
 			float: none;
 		}
 	}
