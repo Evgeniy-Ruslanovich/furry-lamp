@@ -30,7 +30,7 @@ html, body {
 		float: left;
 		padding-top: 40px;
 	}
-	@media screen and (max-width: 400px) {
+	@media screen and (max-width: 400px) { /*для мобильника*/
 		.header {
 			width: 100%;
 			min-width: 300px;
@@ -40,7 +40,7 @@ html, body {
 			float: none;
 		}
 	}
-	@media screen and (max-width: 1050px) and (min-width: 400px) {
+	@media screen and (max-width: 1050px) and (min-width: 400px) {  /*для планшета*/
 		.header {
 			width: 100%;
 			/*min-width: 300px;*/
@@ -48,9 +48,17 @@ html, body {
 			/*background-color: #aaa;*/
 			background-color: #050505;
 			float: none;
-
 		}
-		.
+		.header .contacts {
+			margin-top: 100px ;
+			margin-right: 30px;
+			float:right;
+				
+		}
+		.header-top {
+			float:left;
+			margin-left: 30px;
+		}
 	}
 	.header h2 {
 		font-family: 'Roboto Condensed', sans-serif;
@@ -86,13 +94,15 @@ html, body {
 		/*outline: 1px solid black;*/
 	}
 	.contacts {
-		/*height: 150px;
-		width: 200px;*/
+		/*height: 150px;*/
+		width: 150px;
 		max-width: 80%;
-		margin-top: 50px;
+		
 		/*margin-right: 70px;*/
-		margin-left: auto;
-		margin-right: auto;
+		/*margin-left: auto;*/
+		/*margin-right: auto;*/
+		margin:0 auto;
+
 
 		/*float: right;*/
 		/*outline: 1px solid black;*/
