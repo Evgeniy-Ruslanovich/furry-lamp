@@ -42,10 +42,20 @@ html, body {
 	/*background-color: #f80;*/
 	overflow: hidden;
 }
+.textSuperBox {
+	border-right: 4px solid red;
+	padding-top: 40px;
+}
+.lastSuperbox {
+	border-right: 4px solid transparent;
+}
 .textBigBox {
 	background-color: green;
-	margin-top: 40px;
+	/*margin-top: 40px;*/
 	margin-left: 40px;
+	margin-right: 36px;
+	/*margin-bottom: 40px;*/
+
 }
 .upperLineZone {
 	height: 40px;
@@ -54,6 +64,9 @@ html, body {
 .upperLine {
 	height: 36px;
 	background-color: lightblue;
+	position: relative;
+	
+	left:40px;
 	width: 50%;
 	float:right;
 	border-top-left-radius: 36px;
@@ -61,11 +74,12 @@ html, body {
 	border-top: 4px solid red;
 }
 .littleRound {
-	height: 36px;
+	height: 40px;
 	width: 36px;
 	position: relative;
-	top:-36px;
-	background-color: yellow;
+	top:-40px;
+	left:40px;
+	background-color: transparent;
 	float:right;
 	border-bottom-right-radius: 36px;
 	border-right: 4px solid red;
@@ -78,10 +92,11 @@ html, body {
 	float: left;
 	background-color: blue;
 	border-bottom-left-radius: 40px;
-		border-bottom: 4px solid red;
-		border-left: 4px solid red;
-		position: relative;
-		left:-4px;
+	border-bottom: 4px solid red;
+	border-left: 4px solid red;
+	position: relative;
+	left:-4px;
+	display:none;
 }
 /* ФУТЕР */
 .prefooter {
